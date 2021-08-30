@@ -10,7 +10,7 @@ Use member functions to input the marks for each class. Identify a concept and w
 
 OUTPUT:
 
-![2021-08-30 (10)](https://user-images.githubusercontent.com/87412265/131334494-adf01ffa-fec3-4099-9b94-701f37defd5d.png)
+![2021-08-30 (13)](https://user-images.githubusercontent.com/87412265/131336313-21ddfd2c-6869-41f5-9ab7-175632c64745.png)
 
 
 ### PROBLEM STATEMENT 2:
