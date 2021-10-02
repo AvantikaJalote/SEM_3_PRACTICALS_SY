@@ -44,4 +44,7 @@ Deposit this amount to saving account
 
 OUTPUT:
 
+![2021-10-02 (15)](https://user-images.githubusercontent.com/87412265/135721671-b70daa02-579f-4d74-b04c-a070f50c64ee.png)
+
+![2021-10-02 (16)](https://user-images.githubusercontent.com/87412265/135721659-25893be2-ceec-400a-a808-1cfd0bed8381.png)
 
